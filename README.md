@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a passion 
 
   📫 How to reach me ...
     Feel free to connect with me via:
-    Email: patelansh1510.jobs@gmail.com
+    Email: patelansh1510.jobs@gmail.com        
     LinkedIn: https://www.linkedin.com/in/patelansh110/
 
   😄 Pronouns: He/Him
